@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MNet</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Set Payment</string>
+    <string name="second_fragment_label">Card Information</string>
+    <string name="next">Find</string>
+    <string name="previous">Submit</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
